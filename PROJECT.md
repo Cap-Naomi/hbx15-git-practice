@@ -2,7 +2,7 @@
 
 ## Project Name 
 
-TBD
+Cars for Newbies
 
 ## Problemt to Solve 
 
@@ -10,4 +10,4 @@ TBD
 
 ## Target User 
 
-TBD
+New car owners
